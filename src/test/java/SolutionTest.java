@@ -33,7 +33,7 @@ public class SolutionTest {
         t.add(2);
         ans.add(new ArrayList<Integer>(t));
         t.clear();
-        t.add(-1);
+        t.add(1);
         t.add(0);
         t.add(1);
         ans.add(new ArrayList<Integer>(t));
